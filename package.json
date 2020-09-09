@@ -22,5 +22,8 @@
     "jasmine": "^3.5.0",
     "jasmine-core": "^2.99.1",
     "request": "^2.88.2"
+  },
+  "publishConfig": {
+    "acces": "public"
   }
 }
